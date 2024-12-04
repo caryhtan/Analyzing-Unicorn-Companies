@@ -4,7 +4,7 @@
 Welcome to my project on analyzing high-growth industries through the lens of unicorn companies! Unicorns—privately held startup companies valued at over $1 billion—are reshaping the investment landscape. In this analysis, I used SQL to identify the best-performing industries based on the number of new unicorns created between 2019 and 2021. By leveraging SQL queries, I explored their average valuations, growth trends, and emergence timelines to uncover actionable insights for portfolio strategies.
 
 ## View the Notebook
-You can check out the full analysis here: [View Notebook](https://github.com/caryhtan/Analyzing-Unicorn-Industries/blob/main/notebook.sql)
+You can check out the full analysis here: [View Notebook](https://github.com/caryhtan/Analyzing-Unicorn-Companies/blob/main/notebook.ipynb)
 
 ## What I Did
 I focused on answering the following key questions:
